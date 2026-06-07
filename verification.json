@@ -1,0 +1,115 @@
+{
+  "site": "sprayfoaminsurance.com",
+  "framework": "Next.js App Router",
+  "version": "16.2.7",
+  "generatedAt": "2026-06-07",
+  "totalRoutes": 19,
+  "routes": [
+    {
+      "path": "/",
+      "file": "app/page.tsx",
+      "title": "Home | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/about-us/",
+      "file": "app/about-us/page.tsx",
+      "title": "About Us | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/attic-insulation-certificate/",
+      "file": "app/attic-insulation-certificate/page.tsx",
+      "title": "Attic Insulation Certificate | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/blog/",
+      "file": "app/blog/page.tsx",
+      "title": "Spray Foam Insurance Blog | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/contact-us/",
+      "file": "app/contact-us/page.tsx",
+      "title": "Contact Us | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/environmental-liability/",
+      "file": "app/environmental-liability/page.tsx",
+      "title": "Environmental Liability | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/inland-marine/spray_foam_rig_insurance/",
+      "file": "app/inland-marine/spray_foam_rig_insurance/page.tsx",
+      "title": "Inland Marine Application | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/quote/",
+      "file": "app/quote/page.tsx",
+      "title": "Quote | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/safety-and-compliance-support/",
+      "file": "app/safety-and-compliance-support/page.tsx",
+      "title": "Safety and Compliance | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/",
+      "file": "app/services/page.tsx",
+      "title": "Spray Foam Services | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/Safety-and-Compliance-Support/",
+      "file": "app/services/Safety-and-Compliance-Support/page.tsx",
+      "title": "Safety and Compliance Support | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/commercial-auto/",
+      "file": "app/services/commercial-auto/page.tsx",
+      "title": "Commercial Auto | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/environmental-liability/",
+      "file": "app/services/environmental-liability/page.tsx",
+      "title": "Environmental Liability | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/general-liability-insurance/",
+      "file": "app/services/general-liability-insurance/page.tsx",
+      "title": "General Liability Insurance | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/surety-bonds/",
+      "file": "app/services/surety-bonds/page.tsx",
+      "title": "Surety Bonds | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/services/workers-compensation-insurance-for-spray-foam-contractors/",
+      "file": "app/services/workers-compensation-insurance-for-spray-foam-contractors/page.tsx",
+      "title": "Workers' Compensation | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/spf-resources/",
+      "file": "app/spf-resources/page.tsx",
+      "title": "Resources | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/spf-resources/work-record-form/",
+      "file": "app/spf-resources/work-record-form/page.tsx",
+      "title": "Work Record Form | Spray Foam Insurance Call 844-967-5247"
+    },
+    {
+      "path": "/workers-compensation-insurance-for-spray-foam-contractors/",
+      "file": "app/workers-compensation-insurance-for-spray-foam-contractors/page.tsx",
+      "title": "Workers' Compensation | Spray Foam Insurance Call 844-967-5247"
+    }
+  ],
+  "components": [
+    "app/components/Header.tsx",
+    "app/components/Footer.tsx",
+    "app/components/PageShell.tsx"
+  ],
+  "images": [
+    "public/images/Spray_Foam_Insurance.webp",
+    "public/images/Josh_Cotner_the_contractors_choice_agency_insurance_az.webp"
+  ],
+  "styling": "Tailwind CSS with custom theme matching original Divi colors (#463dff primary, #7e3bd0 accent)",
+  "fonts": "Open Sans + Poppins matching original site"
+}
